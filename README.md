@@ -1,4 +1,4 @@
-![로고](https://github.com/user-attachments/assets/6c1a4587-07e1-4cbd-9e6a-4c2e6d88ec23)
+![1123](https://github.com/user-attachments/assets/36d5744c-361c-4bb8-90d5-1630a7e11b00)
 
 # 코족(Kozok) - 큐플레이 아카이브 족보 프로그램 다운로드
 큐플레이 아카이브 족보 / 큐플레이 족보 / 오프라인 족보 / 자동 족보
